@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9377e85707577410a4c097e8ec6f8749",
+    "revision": "e5e865a6eff337d830566c3e64934101",
     "url": "https://purpleworld.gg/index.html"
   },
   {
-    "revision": "0145e82ede536c21196c",
+    "revision": "83bacc2a12df320d3728",
     "url": "https://purpleworld.gg/static/css/main.f4d064b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0145e82ede536c21196c",
-    "url": "https://purpleworld.gg/static/js/main.c8aa271c.chunk.js"
+    "revision": "83bacc2a12df320d3728",
+    "url": "https://purpleworld.gg/static/js/main.cebfe974.chunk.js"
   },
   {
     "revision": "488338b5ad192c511d63",

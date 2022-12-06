@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://purpleworld.gg/static/css/main.f4d064b5.chunk.css",
-    "main.js": "https://purpleworld.gg/static/js/main.c8aa271c.chunk.js",
-    "main.js.map": "https://purpleworld.gg/static/js/main.c8aa271c.chunk.js.map",
+    "main.js": "https://purpleworld.gg/static/js/main.947d60be.chunk.js",
+    "main.js.map": "https://purpleworld.gg/static/js/main.947d60be.chunk.js.map",
     "runtime-main.js": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js",
     "runtime-main.js.map": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js.map",
     "static/js/2.f845ae1c.chunk.js": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js",
     "static/js/2.f845ae1c.chunk.js.map": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.map",
     "index.html": "https://purpleworld.gg/index.html",
-    "precache-manifest.558606c946ec7a35ba4109262a1370b8.js": "https://purpleworld.gg/precache-manifest.558606c946ec7a35ba4109262a1370b8.js",
+    "precache-manifest.2f442940b49020473e7cc2da9b122791.js": "https://purpleworld.gg/precache-manifest.2f442940b49020473e7cc2da9b122791.js",
     "service-worker.js": "https://purpleworld.gg/service-worker.js",
     "static/css/main.f4d064b5.chunk.css.map": "https://purpleworld.gg/static/css/main.f4d064b5.chunk.css.map",
     "static/js/2.f845ae1c.chunk.js.LICENSE.txt": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.a173ad01.js",
     "static/js/2.f845ae1c.chunk.js",
     "static/css/main.f4d064b5.chunk.css",
-    "static/js/main.c8aa271c.chunk.js"
+    "static/js/main.947d60be.chunk.js"
   ]
 }

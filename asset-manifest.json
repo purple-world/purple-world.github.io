@@ -1,32 +1,33 @@
 {
   "files": {
-    "main.css": "https://purpleworld.gg/static/css/main.64f564ac.chunk.css",
-    "main.js": "https://purpleworld.gg/static/js/main.2af00c50.chunk.js",
-    "main.js.map": "https://purpleworld.gg/static/js/main.2af00c50.chunk.js.map",
+    "main.css": "https://purpleworld.gg/static/css/main.f6e6373e.chunk.css",
+    "main.js": "https://purpleworld.gg/static/js/main.5b0e6c92.chunk.js",
+    "main.js.map": "https://purpleworld.gg/static/js/main.5b0e6c92.chunk.js.map",
     "runtime-main.js": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js",
     "runtime-main.js.map": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js.map",
-    "static/js/2.196d9551.chunk.js": "https://purpleworld.gg/static/js/2.196d9551.chunk.js",
-    "static/js/2.196d9551.chunk.js.map": "https://purpleworld.gg/static/js/2.196d9551.chunk.js.map",
+    "static/js/2.f845ae1c.chunk.js": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js",
+    "static/js/2.f845ae1c.chunk.js.map": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.map",
     "index.html": "https://purpleworld.gg/index.html",
-    "precache-manifest.498a39bd8ff370f5846c642455c004fe.js": "https://purpleworld.gg/precache-manifest.498a39bd8ff370f5846c642455c004fe.js",
+    "precache-manifest.b9d44a7ed8ccd5b2ae379e5fa28d4f50.js": "https://purpleworld.gg/precache-manifest.b9d44a7ed8ccd5b2ae379e5fa28d4f50.js",
     "service-worker.js": "https://purpleworld.gg/service-worker.js",
-    "static/css/main.64f564ac.chunk.css.map": "https://purpleworld.gg/static/css/main.64f564ac.chunk.css.map",
-    "static/js/2.196d9551.chunk.js.LICENSE.txt": "https://purpleworld.gg/static/js/2.196d9551.chunk.js.LICENSE.txt",
+    "static/css/main.f6e6373e.chunk.css.map": "https://purpleworld.gg/static/css/main.f6e6373e.chunk.css.map",
+    "static/js/2.f845ae1c.chunk.js.LICENSE.txt": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.LICENSE.txt",
     "static/media/Immigrant.png": "https://purpleworld.gg/static/media/Immigrant.7477d26b.png",
     "static/media/bureaucrat.png": "https://purpleworld.gg/static/media/bureaucrat.b20f6c47.png",
     "static/media/coastguard.png": "https://purpleworld.gg/static/media/coastguard.5794b8d5.png",
     "static/media/style.scss": "https://purpleworld.gg/static/media/illustration-section-02.63d0555d.svg",
     "static/media/farmer.png": "https://purpleworld.gg/static/media/farmer.0376e513.png",
-    "static/media/features-split-image-02.png": "https://purpleworld.gg/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "https://purpleworld.gg/static/media/features-split-image-03.87e4d053.png",
     "static/media/logo.svg": "https://purpleworld.gg/static/media/logo.e66818ef.svg",
     "static/media/map.png": "https://purpleworld.gg/static/media/map.b52cb8a5.png",
-    "static/media/map2.png": "https://purpleworld.gg/static/media/map2.4f69865a.png"
+    "static/media/map2.png": "https://purpleworld.gg/static/media/map2.4f69865a.png",
+    "static/media/phase-1.png": "https://purpleworld.gg/static/media/phase-1.782e05e9.png",
+    "static/media/phase-2.png": "https://purpleworld.gg/static/media/phase-2.75edd59c.png",
+    "static/media/phase-3.png": "https://purpleworld.gg/static/media/phase-3.2e8ce942.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a173ad01.js",
-    "static/js/2.196d9551.chunk.js",
-    "static/css/main.64f564ac.chunk.css",
-    "static/js/main.2af00c50.chunk.js"
+    "static/js/2.f845ae1c.chunk.js",
+    "static/css/main.f6e6373e.chunk.css",
+    "static/js/main.5b0e6c92.chunk.js"
   ]
 }

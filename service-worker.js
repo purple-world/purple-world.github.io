@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://purpleworld.gg/precache-manifest.2f442940b49020473e7cc2da9b122791.js"
+  "https://purpleworld.gg/precache-manifest.f7d4827ae1565fab656cb023e925538f.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "https://purpleworld.gg/static/css/main.f4d064b5.chunk.css",
+    "main.css": "https://purpleworld.gg/static/css/main.79ce6ac5.chunk.css",
     "main.js": "https://purpleworld.gg/static/js/main.cebfe974.chunk.js",
     "main.js.map": "https://purpleworld.gg/static/js/main.cebfe974.chunk.js.map",
     "runtime-main.js": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js",
@@ -8,11 +8,12 @@
     "static/js/2.f845ae1c.chunk.js": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js",
     "static/js/2.f845ae1c.chunk.js.map": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.map",
     "index.html": "https://purpleworld.gg/index.html",
-    "precache-manifest.f7d4827ae1565fab656cb023e925538f.js": "https://purpleworld.gg/precache-manifest.f7d4827ae1565fab656cb023e925538f.js",
+    "precache-manifest.14da3d023b04b59dc86867c9bb4c84e2.js": "https://purpleworld.gg/precache-manifest.14da3d023b04b59dc86867c9bb4c84e2.js",
     "service-worker.js": "https://purpleworld.gg/service-worker.js",
-    "static/css/main.f4d064b5.chunk.css.map": "https://purpleworld.gg/static/css/main.f4d064b5.chunk.css.map",
+    "static/css/main.79ce6ac5.chunk.css.map": "https://purpleworld.gg/static/css/main.79ce6ac5.chunk.css.map",
     "static/js/2.f845ae1c.chunk.js.LICENSE.txt": "https://purpleworld.gg/static/js/2.f845ae1c.chunk.js.LICENSE.txt",
     "static/media/Immigrant.png": "https://purpleworld.gg/static/media/Immigrant.7477d26b.png",
+    "static/media/App.css": "https://purpleworld.gg/static/media/TT2020StyleBRegular.7a1e9018.ttf",
     "static/media/bureaucrat.png": "https://purpleworld.gg/static/media/bureaucrat.b20f6c47.png",
     "static/media/coastguard.png": "https://purpleworld.gg/static/media/coastguard.5794b8d5.png",
     "static/media/style.scss": "https://purpleworld.gg/static/media/illustration-section-02.63d0555d.svg",
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.a173ad01.js",
     "static/js/2.f845ae1c.chunk.js",
-    "static/css/main.f4d064b5.chunk.css",
+    "static/css/main.79ce6ac5.chunk.css",
     "static/js/main.cebfe974.chunk.js"
   ]
 }

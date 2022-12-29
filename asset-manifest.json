@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "https://purpleworld.gg/static/css/main.a738ea49.chunk.css",
-    "main.js": "https://purpleworld.gg/static/js/main.286a791f.chunk.js",
-    "main.js.map": "https://purpleworld.gg/static/js/main.286a791f.chunk.js.map",
+    "main.css": "https://purpleworld.gg/static/css/main.f046fba5.chunk.css",
+    "main.js": "https://purpleworld.gg/static/js/main.60813290.chunk.js",
+    "main.js.map": "https://purpleworld.gg/static/js/main.60813290.chunk.js.map",
     "runtime-main.js": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js",
     "runtime-main.js.map": "https://purpleworld.gg/static/js/runtime-main.a173ad01.js.map",
     "static/js/2.a1a16796.chunk.js": "https://purpleworld.gg/static/js/2.a1a16796.chunk.js",
     "static/js/2.a1a16796.chunk.js.map": "https://purpleworld.gg/static/js/2.a1a16796.chunk.js.map",
     "index.html": "https://purpleworld.gg/index.html",
-    "precache-manifest.b3cf6d31f2dafe41eec66193054cb5ae.js": "https://purpleworld.gg/precache-manifest.b3cf6d31f2dafe41eec66193054cb5ae.js",
+    "precache-manifest.83079d60c39e081fdbc054e7ebe89ac5.js": "https://purpleworld.gg/precache-manifest.83079d60c39e081fdbc054e7ebe89ac5.js",
     "service-worker.js": "https://purpleworld.gg/service-worker.js",
-    "static/css/main.a738ea49.chunk.css.map": "https://purpleworld.gg/static/css/main.a738ea49.chunk.css.map",
+    "static/css/main.f046fba5.chunk.css.map": "https://purpleworld.gg/static/css/main.f046fba5.chunk.css.map",
     "static/js/2.a1a16796.chunk.js.LICENSE.txt": "https://purpleworld.gg/static/js/2.a1a16796.chunk.js.LICENSE.txt",
     "static/media/Discord-Emblem.png": "https://purpleworld.gg/static/media/Discord-Emblem.79c5962c.png",
-    "static/media/Immigrant.png": "https://purpleworld.gg/static/media/Immigrant.7477d26b.png",
     "static/media/App.css": "https://purpleworld.gg/static/media/TT2020StyleBRegular.7a1e9018.ttf",
     "static/media/bureaucrat.png": "https://purpleworld.gg/static/media/bureaucrat.b20f6c47.png",
     "static/media/coastguard.png": "https://purpleworld.gg/static/media/coastguard.5794b8d5.png",
@@ -29,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.a173ad01.js",
     "static/js/2.a1a16796.chunk.js",
-    "static/css/main.a738ea49.chunk.css",
-    "static/js/main.286a791f.chunk.js"
+    "static/css/main.f046fba5.chunk.css",
+    "static/js/main.60813290.chunk.js"
   ]
 }
